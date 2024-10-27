@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![An image of @madhavnair4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavnair4)](https://holopin.io/@madhavnair4)
 <!--
 **MadhavNair4/MadhavNair4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
